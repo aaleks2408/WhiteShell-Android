@@ -1,0 +1,6 @@
+APP_ID=6
+APP_HASH="eb06d4abfb49dc3eeb1aeb98ae0f581e"
+MAPS_V2_API=dummy_key
+SIGNING_KEY_STORE_PASSWORD=android
+SIGNING_KEY_ALIAS=androiddebugkey
+SIGNING_KEY_PASSWORD=android
